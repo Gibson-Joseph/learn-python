@@ -7,7 +7,7 @@
 # What is encapsulation?
 # Encapsulation is the binding of data and functions that manipulate that data.
 # And we encapsulate into one big object so that we keep everyting in this box that users or code or other machines can interat with.
-# And this data and functions are whet we call attributes and methods.
+# And this data and functions are what we call attributes and methods.
 
 # By using encapsulation, I've packaged all method and attribute up into a blueprint that we can create multiple objects.
 
