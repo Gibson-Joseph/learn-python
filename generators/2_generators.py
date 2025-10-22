@@ -22,7 +22,7 @@ def make_list(num):
     return result
 
 
-#  General way to create a generator:
+# General way to create a generator:
 # Generators are usally functions just like range is a function.
 
 

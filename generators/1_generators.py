@@ -22,7 +22,7 @@ def make_list(num):
         # for i in 3
         # ...
         # for i in 100
-        # In memory, it never, ever creates this list liek we have with my_list
+        # In memory, it never, ever creates this list like we have with my_list
         result.append(i * 2)
     return result  # this list lives in our memory
 
